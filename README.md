@@ -47,6 +47,8 @@ The program also creates a Word GUI that will display words from file chosen by 
     - all words that start with an ‘A’ or ‘a’ should be displayed in row 1, column 1. All words that start with a ‘B’ or ‘b’ should be displayed in row 1, column 2, etc. Starting with ‘N’ or ‘n’ in row 2 column 1, with ‘O’ or ’o’ in row 1 column 2.
     - Example Word GUI which sorted a file of book authors alphabetically:
  
+ <img width="1084" alt="Screen Shot 2023-08-15 at 12 48 14 AM" src="https://github.com/emilyh12345/modified_alphabetical_GUI/assets/101225468/c61f40a7-ff00-4c7a-85fc-e55837d35164">
+
 >NOTE:
 >- **the constructor of the Word class checks that the word is valid (has only letters) and throws an IllegalWordException if it is not
 >    - Invalid words are displayed to user
