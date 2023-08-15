@@ -2,6 +2,8 @@
 
 This project was developed in 5 stages starting in Spring 2022 as part of an Object Oriented Programming course project but was modified in Summer 2023. The final project can be found here.
 
+Some code is taken from OOP course notes and modified for this project.
+
 The goal of this project is to allow a user to choose any file and organize all words from the file alphabetically in a GUI (Graphical User Interface).
 
 ## GUIs
