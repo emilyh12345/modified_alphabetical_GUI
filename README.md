@@ -27,7 +27,7 @@ The program creates a Sample GUI (that extends JFrame) with a File Menu which is
    <li style="margin-left: 20px;">2) Edit - option to “Add Word”:
        <ul style="list-style-type: none; padding-left: 0;">
            <li>user is then prompted to “Enter another word: ”</li>
-           <li>*if valid, word will be added into the alphabetized *Word GUI</li>
+           <li>**if valid, word will be added into the alphabetized *Word GUI</li>
        </ul>
    </li>
 </ul>
@@ -48,7 +48,7 @@ The program also creates a Word GUI that will display words from file chosen by 
     - Example Word GUI which sorted a file of book authors alphabetically:
  
 >NOTE:
->- the constructor of the Word class checks that the word is valid (has only letters) and throws an IllegalWordException if it is not
+>- **the constructor of the Word class checks that the word is valid (has only letters) and throws an IllegalWordException if it is not
 >    - Invalid words are displayed to user
 >- input files can contain any symbols, and any number of words and spaces on each line because a string tokenizer separates the different words in the chosen file
 
